@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **aquila1004/aquila1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=606566)
-<div align= "center">
+-->
+
+![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=606566)
