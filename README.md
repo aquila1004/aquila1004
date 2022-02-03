@@ -17,6 +17,8 @@
 </div>
 </a>
 </p>
+ 
+![snake commits](https://github.com/aquila1004/aquila1004/blob/output/github-contribution-grid-snake.svg)
   
 ### ⚙️ &nbsp;Connect with Me
 
