@@ -1,19 +1,25 @@
-### Olá 👋
-
-<!--
-**aquila1004/aquila1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
+<div align=center>
+  
 ![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=606566)
+  
+</div>
+ <div align="center">
+   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
+ </div>
+ 
+ ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aquila1004">
+<div>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aquila1004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
+</div>
+</a>
+</p>
+  
+### ⚙️ &nbsp;Connect with Me
+
+<p align="center">
+<a href="mailto:aquilasouza171@gmail.com"><img src="https://img.shields.io/badge/-aquilasouza171@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
+</p>
