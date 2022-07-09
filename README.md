@@ -1,11 +1,13 @@
 <div align=center>
   
-![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=606566)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=aquila1004.aquila1004)&nbsp;  
   
 </div>
  <div align="center">
    <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
  </div>
+ 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%C3%A1quila-oliveira-souza-47a965234) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aquilasouza1004/)
  
  ### ⚙️ &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. Note: I love C!\
