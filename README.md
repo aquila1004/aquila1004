@@ -4,7 +4,6 @@
 
 </div>
  <div align="center">
-   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
  </div>
  
 
