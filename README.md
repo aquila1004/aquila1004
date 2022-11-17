@@ -39,3 +39,7 @@
 <p align="center">
 <a href="mailto:aquilasouza1004@gmail.com"><img src="https://img.shields.io/badge/-aquilasouza1004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 </p>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <div/>
