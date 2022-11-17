@@ -10,10 +10,10 @@
  ### ⚙️ &nbsp;About Me
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%C3%A1quila-oliveira-souza-47a965234) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aquilasouza1004/)
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. Note: I love C!\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Systems Engineering at the Federal University of Minas Gerais (UFMG).\
 🌱 &nbsp;I'm on track for learning more about Security Analysis, Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue learn UX /UI, task automation through bots, personal improvement, reading books and going out with my family and girlfriend..\
+✍️ &nbsp;In my free time, I pursue learn UX /UI, task automation through bots, personal improvement, reading books and going out with my family ..\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at aquilasouza1004@gmail.com! I'll try to respond as soon as I can.\
 
