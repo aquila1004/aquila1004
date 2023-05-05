@@ -4,7 +4,8 @@
 </div>
  <div align="center">
  </div>
- ### 🤝🏻 &nbsp;Connect with Me
+ 
+ 🤝🏻 &nbsp;Connect with Me
  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%C3%A1quila-oliveira-souza-47a965234) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aquilasouza1004/)
 ### ⚙️ &nbsp;About Me
@@ -56,10 +57,6 @@
  
 ![snake commits](https://github.com/aquila1004/aquila1004/blob/output/github-contribution-grid-snake.svg)
   
-### ⚙️ &nbsp;Connect with Me
-
-<p align="center">
-<a href="mailto:aquilasouza1004@gmail.com"><img src="https://img.shields.io/badge/-aquilasouza1004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 </p>
 <div align="center">
   <a href="https://github.com/aquila1004">
