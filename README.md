@@ -5,7 +5,17 @@
 </div>
  <div align="center">
  </div>
- 
+ <div align="center">
+   <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
+   <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
+   <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
+   <img src="https://img.shields.io/badge/typescript%20-%23339933.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+ </div>
 
  ### ⚙️ &nbsp;About Me
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%C3%A1quila-oliveira-souza-47a965234) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aquilasouza1004/)
