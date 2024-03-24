@@ -1,6 +1,6 @@
 <div align=center>
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=aquila1004.aquila1004)&nbsp;  
+
 </div>
  <div align="center">
  </div>
