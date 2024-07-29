@@ -2,7 +2,6 @@
 
 ![Syrax](https://media1.tenor.com/m/ez3hYVlhwdsAAAAC/syrax-rhaenyra-targaryen.gif)
 
-![Animação de Dragão](https://media.tenor.com/z8fa5SYZqv0AAAAi/gif.gif)
 </div>
  <div align="center">
  </div>
