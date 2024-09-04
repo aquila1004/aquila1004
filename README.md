@@ -1,7 +1,5 @@
 <div align=center>
 
-![Syrax](https://media1.tenor.com/m/ez3hYVlhwdsAAAAC/syrax-rhaenyra-targaryen.gif)
-
 </div>
  <div align="center">
  </div>
