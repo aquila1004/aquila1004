@@ -6,12 +6,9 @@
  
 ⚙️ &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Systems Engineering at the Federal University of Minas Gerais (UFMG).\
-🌱 &nbsp;I'm on track for learning more about Security Analysis, Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue learn UX /UI, task automation through bots, personal improvement, reading books and going out with my family ..\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at aquilasouza1004@gmail.com! I'll try to respond as soon as I can.\
+👋 Olá! Eu sou um desenvolvedor full stack com experiência em várias tecnologias. Ao longo da minha carreira, trabalhei em três projetos desenvolvendo APIs para aplicativos em React Native. Também participei da migração de um sistema legado para React, o que me deu uma boa bagagem para lidar com desafios de frontend. Além disso, tenho conhecimento em PHP, .NET e Angular, o que me permite atuar em diferentes camadas do desenvolvimento web.
+
+Gosto de aprender e explorar novas tecnologias, buscando sempre escrever um código limpo e eficiente. Aqui você vai encontrar alguns dos meus projetos e contribuições. Fique à vontade para dar uma olhada!
 
 🤝🏻 &nbsp;Connect with Me
  
