@@ -6,9 +6,9 @@
  
 ⚙️ &nbsp;About Me
 
-👋 Olá! Eu sou um desenvolvedor full stack com experiência em várias tecnologias. Ao longo da minha carreira, trabalhei em três projetos desenvolvendo APIs para aplicativos em React Native. Também participei da migração de um sistema legado para React, o que me deu uma boa bagagem para lidar com desafios de frontend. Além disso, tenho conhecimento em PHP, .NET e Angular, o que me permite atuar em diferentes camadas do desenvolvimento web.
+👋 Hi! I'm a full stack developer with experience across a variety of technologies. Over the course of my career, I've developed APIs for three React Native projects. I also worked on migrating a legacy system to React, which gave me solid experience tackling frontend challenges. Additionally, I have a background in PHP, .NET, and Angular, allowing me to work across different layers of web development.
 
-Gosto de aprender e explorar novas tecnologias, buscando sempre escrever um código limpo e eficiente. Aqui você vai encontrar alguns dos meus projetos e contribuições. Fique à vontade para dar uma olhada!
+I’m always eager to learn and explore new technologies, aiming to write clean and efficient code. Here, you’ll find some of my projects and contributions. Feel free to take a look!
 
 🤝🏻 &nbsp;Connect with Me
  
